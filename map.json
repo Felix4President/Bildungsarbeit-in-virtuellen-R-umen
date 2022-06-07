@@ -1485,7 +1485,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.geoguessr.com\/maps\/world"
+                 "value":"https:\/\/www.sporcle.com\/games\/g\/europe"
                 }],
          "type":"tilelayer",
          "visible":true,
