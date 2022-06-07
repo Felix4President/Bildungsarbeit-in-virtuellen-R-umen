@@ -1485,7 +1485,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.geo-quiz.net\/de\/weltquiz.html"
+                 "value":"https:\/\/www.geoguessr.com\/maps\/world"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1819,7 +1819,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.geo-quiz.net\/de\/weltquiz.html"
+                 "value":"https:\/\/www.sporcle.com\/games\/g\/worldflags"
                 }],
          "type":"tilelayer",
          "visible":true,
