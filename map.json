@@ -1986,7 +1986,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/lu1IZgBJJD4"
+                 "value":"https:\/\/diode.zone\/videos\/embed\/d321c092-583d-41ba-afc7-92c02a7c79b2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -4940,40 +4940,121 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":2683,
-         "source":"City2.tsx"
+         "image":"src\/assets\/[Base]BaseChip_pipo.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"City2",
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":3747,
-         "source":"City1.tsx"
+         "image":"src\/assets\/tileset_town_multi_v002.png",
+         "imageheight":2240,
+         "imagewidth":256,
+         "margin":0,
+         "name":"City1",
+         "spacing":0,
+         "tilecount":560,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":4307,
-         "source":"Keys3.tsx"
+         "image":"src\/assets\/keys.png",
+         "imageheight":102,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Keys3",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":4319,
-         "source":"Text1.tsx"
+         "image":"src\/assets\/text1.png",
+         "imageheight":288,
+         "imagewidth":298,
+         "margin":0,
+         "name":"Text1",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":4400,
-         "source":"Text2.tsx"
+         "image":"src\/assets\/text2.png",
+         "imageheight":288,
+         "imagewidth":298,
+         "margin":0,
+         "name":"Text2",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":4481,
-         "source":"Text3.tsx"
+         "image":"src\/assets\/text3.png",
+         "imageheight":288,
+         "imagewidth":298,
+         "margin":0,
+         "name":"Text3",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":4562,
-         "source":"Text5.tsx"
+         "image":"src\/assets\/text5.png",
+         "imageheight":288,
+         "imagewidth":298,
+         "margin":0,
+         "name":"Text5",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":4643,
-         "source":"Text7.tsx"
+         "image":"src\/assets\/text7.png",
+         "imageheight":288,
+         "imagewidth":298,
+         "margin":0,
+         "name":"Text7",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":4724,
-         "source":"Text6.tsx"
+         "image":"src\/assets\/text6.png",
+         "imageheight":288,
+         "imagewidth":298,
+         "margin":0,
+         "name":"Text6",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
